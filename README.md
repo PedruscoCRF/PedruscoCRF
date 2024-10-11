@@ -1,4 +1,4 @@
-- 👋 Olá, mundo! Eu sou o Pedro e tenho 20 anos!
+- 👋 Olá, mundo! Eu sou o Pedro e tenho 21 anos!
 - 👀 Apaixonado por tecnologia e ajudar as pessoas!
 - 🌱 Atualmente estou aprendendo linguagem front-end e back-end
 - 💞️ Procurando emprego onde eu possa demonstrar e desenvolver minhas capacidades junto da empresa
